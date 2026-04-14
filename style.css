@@ -5,3 +5,11 @@ align-items: center;
 justify-content: center;
 background-color: grey;
 }
+
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 10vh 30vh 30vh;
+}
+
