@@ -3,7 +3,7 @@ header
 display: flex;
 align-items: center;
 justify-content: center;
-background-color: grey;
+background-color: lightgrey;
 }
 
 
@@ -55,5 +55,5 @@ div{
 }
 
 h2{
-    background-color: grey;
+    background-color: lightgrey;
 }
